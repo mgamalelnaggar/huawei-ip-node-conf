@@ -1,0 +1,470 @@
+vlan 2001
+ description vUGW01_OM_Network1
+vlan 3900
+ description vUGW01_Base_Network1
+vlan 3901
+ description vUGW01_Fabric_Network1
+vlan 1900
+ description vUGW01_Srv_1
+vlan 1901
+ description vUGW01_Srv_1_sub_1
+vlan 1902
+ description vUGW01_Srv_1_sub_2
+vlan 1903
+ description vUGW01_Srv_1_sub_3
+vlan 1904
+ description vUGW01_Srv_1_sub_4
+vlan 1905
+ description vUGW01_Srv_1_sub_5
+vlan 1906
+ description vUGW01_Srv_1_sub_6
+vlan 1907
+ description vUGW01_Srv_1_sub_7
+vlan 1908
+ description vUGW01_Srv_1_sub_8
+vlan 1909
+ description vUGW01_Srv_1_sub_9
+vlan 1910
+ description vUGW01_Srv_1_sub_10
+vlan 1911
+ description vUGW01_Srv_1_sub_11
+vlan 1912
+ description vUGW01_Srv_1_sub_12
+vlan 1913
+ description vUGW01_Srv_1_sub_13
+vlan 1914
+ description vUGW01_Srv_1_sub_14
+vlan 1915
+ description vUGW01_Srv_1_sub_15
+vlan 1916
+ description vUGW01_Srv_1_sub_16
+vlan 1917
+ description vUGW01_Srv_2
+vlan 1918
+ description vUGW01_Srv_2_sub_1
+vlan 1919
+ description vUGW01_Srv_2_sub_2
+vlan 1920
+ description vUGW01_Srv_2_sub_3
+vlan 1921
+ description vUGW01_Srv_2_sub_4
+vlan 1922
+ description vUGW01_Srv_2_sub_5
+vlan 1923
+ description vUGW01_Srv_2_sub_6
+vlan 1924
+ description vUGW01_Srv_2_sub_7
+vlan 1925
+ description vUGW01_Srv_2_sub_8
+vlan 1926
+ description vUGW01_Srv_2_sub_9
+vlan 1927
+ description vUGW01_Srv_2_sub_10
+vlan 1928
+ description vUGW01_Srv_2_sub_11
+vlan 1929
+ description vUGW01_Srv_2_sub_12
+vlan 1930
+ description vUGW01_Srv_2_sub_13
+vlan 1931
+ description vUGW01_Srv_2_sub_14
+vlan 1932
+ description vUGW01_Srv_2_sub_15
+vlan 1933
+ description vUGW01_Srv_2_sub_16
+vlan 1934
+ description vUGW01_Srv_3
+vlan 1935
+ description vUGW01_Srv_3_sub_1
+vlan 1936
+ description vUGW01_Srv_3_sub_2
+vlan 1937
+ description vUGW01_Srv_3_sub_3
+vlan 1938
+ description vUGW01_Srv_3_sub_4
+vlan 1939
+ description vUGW01_Srv_3_sub_5
+vlan 1940
+ description vUGW01_Srv_3_sub_6
+vlan 1941
+ description vUGW01_Srv_3_sub_7
+vlan 1942
+ description vUGW01_Srv_3_sub_8
+vlan 1943
+ description vUGW01_Srv_3_sub_9
+vlan 1944
+ description vUGW01_Srv_3_sub_10
+vlan 1945
+ description vUGW01_Srv_3_sub_11
+vlan 1946
+ description vUGW01_Srv_3_sub_12
+vlan 1947
+ description vUGW01_Srv_3_sub_13
+vlan 1948
+ description vUGW01_Srv_3_sub_14
+vlan 1949
+ description vUGW01_Srv_3_sub_15
+vlan 1950
+ description vUGW01_Srv_3_sub_16
+vlan 2000
+ description vUSN01_OM_Network1
+vlan 3905
+ description vUSN_Base_Network1
+vlan 3906
+ description vUSN_Fabric_Network1
+vlan 1800
+ description vUSN01_Srv_1
+vlan 1801
+ description vUSN01_Srv_1_sub_1
+vlan 1802
+ description vUSN01_Srv_1_sub_2
+vlan 1803
+ description vUSN01_Srv_1_sub_3
+vlan 1804
+ description vUSN01_Srv_1_sub_4
+vlan 1805
+ description vUSN01_Srv_1_sub_5
+vlan 1806
+ description vUSN01_Srv_1_sub_6
+vlan 1807
+ description vUSN01_Srv_1_sub_7
+vlan 1808
+ description vUSN01_Srv_1_sub_8
+vlan 1809
+ description vUSN01_Srv_1_sub_9
+vlan 1810
+ description vUSN01_Srv_1_sub_10
+vlan 1811
+ description vUSN01_Srv_1_sub_11
+vlan 1812
+ description vUSN01_Srv_1_sub_12
+vlan 1813
+ description vUSN01_Srv_1_sub_13
+vlan 1814
+ description vUSN01_Srv_1_sub_14
+vlan 1815
+ description vUSN01_Srv_1_sub_15
+vlan 1816
+ description vUSN01_Srv_1_sub_16
+vlan 1817
+ description vUSN01_Srv_2
+vlan 1818
+ description vUSN01_Srv_2_sub_1
+vlan 1819
+ description vUSN01_Srv_2_sub_2
+vlan 1820
+ description vUSN01_Srv_2_sub_3
+vlan 1821
+ description vUSN01_Srv_2_sub_4
+vlan 1822
+ description vUSN01_Srv_2_sub_5
+vlan 1823
+ description vUSN01_Srv_2_sub_6
+vlan 1824
+ description vUSN01_Srv_2_sub_7
+vlan 1825
+ description vUSN01_Srv_2_sub_8
+vlan 1826
+ description vUSN01_Srv_2_sub_9
+vlan 1827
+ description vUSN01_Srv_2_sub_10
+vlan 1828
+ description vUSN01_Srv_2_sub_11
+vlan 1829
+ description vUSN01_Srv_2_sub_12
+vlan 1830
+ description vUSN01_Srv_2_sub_13
+vlan 1831
+ description vUSN01_Srv_2_sub_14
+vlan 1832
+ description vUSN01_Srv_2_sub_15
+vlan 1833
+ description vUSN01_Srv_2_sub_16
+vlan 1834
+ description vUSN01_Srv_3
+vlan 1835
+ description vUSN01_Srv_3_sub_1
+vlan 1836
+ description vUSN01_Srv_3_sub_2
+vlan 1837
+ description vUSN01_Srv_3_sub_3
+vlan 1838
+ description vUSN01_Srv_3_sub_4
+vlan 1839
+ description vUSN01_Srv_3_sub_5
+vlan 1840
+ description vUSN01_Srv_3_sub_6
+vlan 1841
+ description vUSN01_Srv_3_sub_7
+vlan 1842
+ description vUSN01_Srv_3_sub_8
+vlan 1843
+ description vUSN01_Srv_3_sub_9
+vlan 1844
+ description vUSN01_Srv_3_sub_10
+vlan 1845
+ description vUSN01_Srv_3_sub_11
+vlan 1846
+ description vUSN01_Srv_3_sub_12
+vlan 1847
+ description vUSN01_Srv_3_sub_13
+vlan 1848
+ description vUSN01_Srv_3_sub_14
+vlan 1849
+ description vUSN01_Srv_3_sub_15
+vlan 1850
+ description vUSN01_Srv_3_sub_16
+vlan 2002
+ description vCG01_OM_Network1
+vlan 3911
+ description vCG_Base_Network1
+vlan 3912
+ description vCG_Fabric_Network1
+vlan 1700
+ description vCG01_Srv_1
+vlan 1701
+ description vCG01_Srv_1_sub_1
+vlan 1702
+ description vCG01_Srv_1_sub_2
+vlan 1703
+ description vCG01_Srv_1_sub_3
+vlan 1704
+ description vCG01_Srv_1_sub_4
+vlan 1705
+ description vCG01_Srv_1_sub_5
+vlan 1706
+ description vCG01_Srv_1_sub_6
+vlan 1707
+ description vCG01_Srv_1_sub_7
+vlan 1708
+ description vCG01_Srv_1_sub_8
+vlan 1709
+ description vCG01_Srv_1_sub_9
+vlan 1710
+ description vCG01_Srv_1_sub_10
+vlan 1711
+ description vCG01_Srv_1_sub_11
+vlan 1712
+ description vCG01_Srv_1_sub_12
+vlan 1713
+ description vCG01_Srv_1_sub_13
+vlan 1714
+ description vCG01_Srv_1_sub_14
+vlan 1715
+ description vCG01_Srv_1_sub_15
+vlan 1716
+ description vCG01_Srv_1_sub_16
+vlan 1717
+ description vCG01_Srv_2
+vlan 1718
+ description vCG01_Srv_2_sub_1
+vlan 1719
+ description vCG01_Srv_2_sub_2
+vlan 1720
+ description vCG01_Srv_2_sub_3
+vlan 1721
+ description vCG01_Srv_2_sub_4
+vlan 1722
+ description vCG01_Srv_2_sub_5
+vlan 1723
+ description vCG01_Srv_2_sub_6
+vlan 1724
+ description vCG01_Srv_2_sub_7
+vlan 1725
+ description vCG01_Srv_2_sub_8
+vlan 1726
+ description vCG01_Srv_2_sub_9
+vlan 1727
+ description vCG01_Srv_2_sub_10
+vlan 1728
+ description vCG01_Srv_2_sub_11
+vlan 1729
+ description vCG01_Srv_2_sub_12
+vlan 1730
+ description vCG01_Srv_2_sub_13
+vlan 1731
+ description vCG01_Srv_2_sub_14
+vlan 1732
+ description vCG01_Srv_2_sub_15
+vlan 1733
+ description vCG01_Srv_2_sub_16
+vlan 1734
+ description vCG01_Srv_3
+vlan 1735
+ description vCG01_Srv_3_sub_1
+vlan 1736
+ description vCG01_Srv_3_sub_2
+vlan 1737
+ description vCG01_Srv_3_sub_3
+vlan 1738
+ description vCG01_Srv_3_sub_4
+vlan 1739
+ description vCG01_Srv_3_sub_5
+vlan 1740
+ description vCG01_Srv_3_sub_6
+vlan 1741
+ description vCG01_Srv_3_sub_7
+vlan 1742
+ description vCG01_Srv_3_sub_8
+vlan 1743
+ description vCG01_Srv_3_sub_9
+vlan 1744
+ description vCG01_Srv_3_sub_10
+vlan 1745
+ description vCG01_Srv_3_sub_11
+vlan 1746
+ description vCG01_Srv_3_sub_12
+vlan 1747
+ description vCG01_Srv_3_sub_13
+vlan 1748
+ description vCG01_Srv_3_sub_14
+vlan 1749
+ description vCG01_Srv_3_sub_15
+vlan 1750
+ description vCG01_Srv_3_sub_16
+vlan 2003
+ description EPSN01_OM_Network1
+vlan 3921
+ description EPSN_Base_Network1
+vlan 3920
+ description EPSN_Fabric_Network1
+vlan 1600
+ description vEPSN01_Srv_1
+vlan 1601
+ description vEPSN01_Srv_1_sub_1
+vlan 1602
+ description vEPSN01_Srv_1_sub_2
+vlan 1603
+ description vEPSN01_Srv_1_sub_3
+vlan 1604
+ description vEPSN01_Srv_1_sub_4
+vlan 1605
+ description vEPSN01_Srv_1_sub_5
+vlan 1606
+ description vEPSN01_Srv_1_sub_6
+vlan 1607
+ description vEPSN01_Srv_1_sub_7
+vlan 1608
+ description vEPSN01_Srv_1_sub_8
+vlan 1609
+ description vEPSN01_Srv_1_sub_9
+vlan 1610
+ description vEPSN01_Srv_1_sub_10
+vlan 1611
+ description vEPSN01_Srv_1_sub_11
+vlan 1612
+ description vEPSN01_Srv_1_sub_12
+vlan 1613
+ description vEPSN01_Srv_1_sub_13
+vlan 1614
+ description vEPSN01_Srv_1_sub_14
+vlan 1615
+ description vEPSN01_Srv_1_sub_15
+vlan 1616
+ description vEPSN01_Srv_1_sub_16
+vlan 1617
+ description vEPSN01_Srv_2
+vlan 1618
+ description vEPSN01_Srv_2_sub_1
+vlan 1619
+ description vEPSN01_Srv_2_sub_2
+vlan 1620
+ description vEPSN01_Srv_2_sub_3
+vlan 1621
+ description vEPSN01_Srv_2_sub_4
+vlan 1622
+ description vEPSN01_Srv_2_sub_5
+vlan 1623
+ description vEPSN01_Srv_2_sub_6
+vlan 1624
+ description vEPSN01_Srv_2_sub_7
+vlan 1625
+ description vEPSN01_Srv_2_sub_8
+vlan 1626
+ description vEPSN01_Srv_2_sub_9
+vlan 1627
+ description vEPSN01_Srv_2_sub_10
+vlan 1628
+ description vEPSN01_Srv_2_sub_11
+vlan 1629
+ description vEPSN01_Srv_2_sub_12
+vlan 1630
+ description vEPSN01_Srv_2_sub_13
+vlan 1631
+ description vEPSN01_Srv_2_sub_14
+vlan 1632
+ description vEPSN01_Srv_2_sub_15
+vlan 1633
+ description vEPSN01_Srv_2_sub_16
+vlan 1634
+ description vEPSN01_Srv_3
+vlan 1635
+ description vEPSN01_Srv_3_sub_1
+vlan 1636
+ description vEPSN01_Srv_3_sub_2
+vlan 1637
+ description vEPSN01_Srv_3_sub_3
+vlan 1638
+ description vEPSN01_Srv_3_sub_4
+vlan 1639
+ description vEPSN01_Srv_3_sub_5
+vlan 1640
+ description vEPSN01_Srv_3_sub_6
+vlan 1641
+ description vEPSN01_Srv_3_sub_7
+vlan 1642
+ description vEPSN01_Srv_3_sub_8
+vlan 1643
+ description vEPSN01_Srv_3_sub_9
+vlan 1644
+ description vEPSN01_Srv_3_sub_10
+vlan 1645
+ description vEPSN01_Srv_3_sub_11
+vlan 1646
+ description vEPSN01_Srv_3_sub_12
+vlan 1647
+ description vEPSN01_Srv_3_sub_13
+vlan 1648
+ description vEPSN01_Srv_3_sub_14
+vlan 1649
+ description vEPSN01_Srv_3_sub_15
+vlan 1650
+ description vEPSN01_Srv_3_sub_16
+vlan 1651
+ description vEPSN_Srv_4
+vlan 1652
+ description vEPSN_Srv_4_sub_1
+vlan 1653
+ description vEPSN_Srv_4_sub_2
+vlan 1654
+ description vEPSN_Srv_4_sub_3
+vlan 1655
+ description vEPSN_Srv_4_sub_4
+vlan 1656
+ description vEPSN_Srv_4_sub_5
+vlan 1657
+ description vEPSN_Srv_4_sub_6
+vlan 1658
+ description vEPSN_Srv_4_sub_7
+vlan 1659
+ description vEPSN_Srv_4_sub_8
+vlan 3001
+ description Inner_Plane1_AAA01
+vlan 3002
+ description Inner_Plane2_AAA01
+vlan 3008
+ description Data_Network_1_AAA01
+vlan 3009
+ description Data_Network_2_AAA01
+vlan 3003
+ description Provisioning_NBI_Network_AAA01
+vlan 3004
+ description BILL_NBI_Network_AAA01
+vlan 3005
+ description SIG_Network_1_AAA01
+vlan 3006
+ description SIG_Network_2_AAA01
+vlan 3007
+ description SIG_Network_3_AAA01
+vlan 2004
+ description S_OM_Network_AAA01

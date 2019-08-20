@@ -1,0 +1,4 @@
+
+sys
+interface 10GE 2/3/1
+display this
